@@ -1,6 +1,6 @@
 <?php
 	$host = "localhost";
-	$usuario = "root";
-	$clave = "diego123";
-	$bd = "registro_como_facebook";
+	$usuario = "tu_usuario";
+	$clave = "tu_constrasenia";
+	$bd = "tu_base_datos";
 ?>
